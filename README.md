@@ -2,10 +2,7 @@
 
 `Current student of Computer Science w/honours @ UVIC`
 
-Sometimes playing 500 elo chess games on chess.com, sometimes breaking my nvim config with new plugins or re-rolling my tmux layout.
-
 cool website with my techincal projects (very unique) ->  @ [lukepe.com](https://lukepe.com).
-
 ---
 
 ## 100% Real work experience 
