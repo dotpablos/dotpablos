@@ -6,11 +6,6 @@ cool website with my techincal projects (very unique) ->  @ [lukepe.com](https:/
 
 ---
 
-## 100% Real work experience 
-- High-Frequency Procurement Gastronomy Expert @ Uber Eats & Doordash
-- Former meeting minutes taker @ Evil Corp
-- Intern customer success @ Los Pollos Hermanos
-
 ## Interests
 - data analyzing data
 - fumbling my starbucks order when there's a big line behind me
